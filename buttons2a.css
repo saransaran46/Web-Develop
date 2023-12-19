@@ -1,0 +1,94 @@
+.uber-button{
+    background-color: #000;
+    color : #fff;
+    border:none;
+    height:50px;
+    width:80px;
+    margin-right: 5px;
+    margin-left: 5px;
+    cursor:pointer;
+    transition: background-color 0.15s,
+    color 0.15s;
+}
+.uber-button:hover{
+    background-color: violet;
+    color:black;
+}
+.uber-button:active{
+    background-color: green;
+    color:blue;
+    opacity:0.5;  /*  --for transperancy */
+}
+.amazon-button{
+    background-color:yellow;
+    color :black;
+    border:none;
+    height:40px;
+    width:250px;
+    border-radius:10px;
+    margin-right: 5px;
+    cursor:pointer;
+    transition:box-shadow 0.15s;
+}
+.amazon-button:hover{
+        box-shadow: 10px 10px 10px black;
+}
+.github-button{
+    background-color:rgb(6, 156, 6);
+    color : white;
+    border:none;
+    height:40px;
+    width:80px;
+   border-radius:4px; 
+   margin-right: 5px;
+   margin-left: 5px;
+   font-weight:bold;
+   cursor:pointer;
+}
+.bootstrap-button{
+    background-color:rgb(171, 11, 211);
+    color : white;
+    height:40px;
+    width:120px;
+   border-radius:4px; 
+   margin-right: 5px;
+   margin-left: 5px;
+   font-weight:bold;
+   cursor:pointer;
+}
+.bootstrapsec-button{
+    background-color:white;
+    color :grey;
+    border-color:grey;
+    height:40px;
+    width:120px;
+   border-radius:4px; 
+   margin-right: 5px;
+   margin-left: 5px;
+   font-weight:bold;
+   cursor:pointer;
+}
+.LinkedIn-button{
+    background-color:rgb(6, 156, 6);
+    color : white;
+    border:none;
+    height:40px;
+    width:280px;
+   border-radius:20px; 
+   margin-right: 5px;
+   margin-left: 5px;
+   font-weight:bold;
+   cursor:pointer;
+}
+.LinkedInsec-button{
+    background-color:white;
+    color : blue;
+    border-color:rgb(0, 136, 255);
+    height:40px;
+    width:80px;
+   border-radius:20px; 
+   margin-right: 5px;
+   margin-left: 5px;
+   font-weight:bold;
+   cursor:pointer;
+}

@@ -1,0 +1,52 @@
+p{
+    font-family: Arial;
+}
+.text-design{
+    font-size:18px;
+    font-weight:bold;
+    width:310px;
+    line-height:25px;
+    margin-top:0;
+    margin-bottom:0;
+}
+.words
+{
+    font-size:14px;
+    color:gray;
+    line-height:30px;
+    margin-top:0;
+    margin-bottom:10px;
+}
+.marq
+{
+    font-size:14px;
+    color:gray;
+    line-height:30px;
+    margin-top:0;
+    margin-bottom:10px; 
+}
+.description
+{
+    font-size:14px;
+    width:280px;
+    color:gray;
+    line-height:20px;
+    margin-top:0;
+    margin-bottom:100px; 
+}
+.footer
+{   
+    font-size:14px;
+    color:white;
+    background-color: red;
+    padding-top:20px;
+    padding-bottom:20px;
+    width:700px;
+    margin-top:0;
+    margin-bottom:20px; 
+    text-align:center;
+}
+.spanuse:hover
+{
+    text-decoration: underline;
+}
